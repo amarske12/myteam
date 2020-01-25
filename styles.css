@@ -18,9 +18,11 @@
 }
 .schedhead{
     font-family: 'Russo One';
+    background-color: whitesmoke;
 }
 .rosterhead{
     font-family:'Russo One';
+    background-color: whitesmoke;
 }
 .cubfan{
     color: black;
@@ -30,4 +32,10 @@
 }
 .table{
     font-family: 'Archivo'
+}
+.wholepage{
+background-color: grey;
+}
+.therow{
+    background-color: white;
 }
